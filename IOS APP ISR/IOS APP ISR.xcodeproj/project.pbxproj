@@ -146,6 +146,8 @@
 			dependencies = (
 			);
 			name = "IOS APP ISR";
+			packageProductDependencies = (
+			);
 			productName = "IOS APP ISR";
 			productReference = 2344B4B1251F76350025C900 /* IOS APP ISR.app */;
 			productType = "com.apple.product-type.application";
@@ -217,6 +219,8 @@
 				Base,
 			);
 			mainGroup = 2344B4A8251F76350025C900;
+			packageReferences = (
+			);
 			productRefGroup = 2344B4B2251F76350025C900 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
